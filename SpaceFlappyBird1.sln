@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpaceFlappyBird1", "SpaceFlappyBird\SpaceFlappyBird.vcxproj", "{CCB5EF75-747D-46A2-A7F8-92666DE63AC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{152AA38E-A729-47FE-A2E9-25EF76A333AE}"
+	ProjectSection(SolutionItems) = preProject
+		CHANGELOG.md = CHANGELOG.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB5EF75-747D-46A2-A7F8-92666DE63AC8}.Debug|x64.ActiveCfg = Debug|x64
+		{CCB5EF75-747D-46A2-A7F8-92666DE63AC8}.Debug|x64.Build.0 = Debug|x64
+		{CCB5EF75-747D-46A2-A7F8-92666DE63AC8}.Debug|x86.ActiveCfg = Debug|Win32
+		{CCB5EF75-747D-46A2-A7F8-92666DE63AC8}.Debug|x86.Build.0 = Debug|Win32
+		{CCB5EF75-747D-46A2-A7F8-92666DE63AC8}.Release|x64.ActiveCfg = Release|x64
+		{CCB5EF75-747D-46A2-A7F8-92666DE63AC8}.Release|x64.Build.0 = Release|x64
+		{CCB5EF75-747D-46A2-A7F8-92666DE63AC8}.Release|x86.ActiveCfg = Release|Win32
+		{CCB5EF75-747D-46A2-A7F8-92666DE63AC8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EC4253A-8865-4449-AC6B-E57F57A7188D}
+	EndGlobalSection
+EndGlobal
